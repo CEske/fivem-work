@@ -1,3 +1,9 @@
+# Servers
+DanishRP
+NoLifeRP
+Unix
+DitCommunity xd
+
 # Bots
 DanishRP - Donations Tracker
 ```
